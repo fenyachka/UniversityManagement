@@ -32,6 +32,27 @@ namespace Management.API.Controllers
                 BadRequest(_commandProccessor.Result.Message) : Ok(_commandProccessor.Result.Message);
         }
 
+        [HttpPut]
+        public IActionResult UpdateStudent(StudentUpdateRequest request)
+        {
+            var studentUpdateCommand = new StudentUpdateCommand(request);
+            _commandProccessor.Execute(studentUpdateCommand);
+
+            return _commandProccessor.Result.Status != CommandResultStatus.Success ?
+                BadRequest(_commandProccessor.Result.Message) : Ok(_commandProccessor.Result.Message);
+        }
+
+        [HttpDelete]
+        public IActionResult DeleteStudent(int id)
+        {
+            var stuentDeleteCommand = new StudentDeleteCommand(id);
+            _commandProccessor.Execute(stuentDeleteCommand);
+
+            return _commandProccessor.Result.Status != CommandResultStatus.Success ?
+              BadRequest(_commandProccessor.Result.Message) : Ok(_commandProccessor.Result.Message);
+
+        }
+
         [HttpGet]
         public IActionResult GetStudentList()
         {
