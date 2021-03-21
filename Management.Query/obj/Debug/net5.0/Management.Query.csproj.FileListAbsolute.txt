@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\UniversityManagement\Management.Query\bin\Debug\net5.0\Management.Query.deps.json
+C:\Users\User\source\repos\UniversityManagement\Management.Query\bin\Debug\net5.0\Management.Query.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Query\bin\Debug\net5.0\ref\Management.Query.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Query\bin\Debug\net5.0\Management.Query.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.AssemblyInfo.cs
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\ref\Management.Query.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Query\bin\Debug\net5.0\Management.Domain.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Query\bin\Debug\net5.0\Management.Domain.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Query\obj\Debug\net5.0\Management.Query.csproj.CopyComplete

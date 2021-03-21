@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\bin\Debug\net5.0\Management.Infrastructure.deps.json
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\bin\Debug\net5.0\Management.Infrastructure.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\bin\Debug\net5.0\ref\Management.Infrastructure.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\bin\Debug\net5.0\Management.Infrastructure.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\bin\Debug\net5.0\Management.Domain.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\bin\Debug\net5.0\Management.Domain.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.csproj.CopyComplete
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\ref\Management.Infrastructure.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Infrastructure\obj\Debug\net5.0\Management.Infrastructure.pdb

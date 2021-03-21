@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\bin\Debug\net5.0\Management.Comands.deps.json
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\bin\Debug\net5.0\Management.Comands.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\bin\Debug\net5.0\ref\Management.Comands.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\bin\Debug\net5.0\Management.Comands.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.csprojAssemblyReference.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.AssemblyInfo.cs
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\ref\Management.Comands.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\bin\Debug\net5.0\Management.Domain.dll
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\bin\Debug\net5.0\Management.Domain.pdb
+C:\Users\User\source\repos\UniversityManagement\Management.Comands\obj\Debug\net5.0\Management.Comands.csproj.CopyComplete

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Management.Comands\Management.Comands.csproj" />
+    <ProjectReference Include="..\Management.Domain\Management.Domain.csproj" />
+    <ProjectReference Include="..\Management.Infrastructure\Management.Infrastructure.csproj" />
+    <ProjectReference Include="..\Management.Query\Management.Query.csproj" />
+  </ItemGroup>
+
+</Project>
